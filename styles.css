@@ -1,0 +1,108 @@
+body {
+  background-image: url(https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-bg.png);
+  background-repeat: no-repeat;
+  background-position-x: 717px;
+  background-position-y: 215px;
+}
+
+#logo {
+  position: absolute;
+  padding-left: 1270px;
+  height: 54px;
+  padding-top: 15px;
+}
+
+.heading {
+  font-size: 48px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 0%;
+}
+
+.subheading {
+  font-size: 27px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-top: 0%;
+  color: rgb(107, 107, 107);
+}
+
+#headers {
+  padding-top: 45px;
+  padding-left: 50px;
+}
+
+#flex1 {
+  display: flex;
+  background-color: rgb(255, 56, 56);
+  width: 1100px;
+  height: 45px;
+  margin-left: 62px;
+  margin-top: 35px;
+}
+
+.text1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  color: white;
+  padding-top: 8px;
+  padding-left: 20px;
+}
+
+.text2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 18px;
+  color: white;
+  padding-top: 8px;
+  padding-left: 820px;
+}
+
+#table1 {
+  margin: 0;
+  border-collapse: collapse;
+  margin-left: 62px;
+  width: 1100px;
+  font-size: 18px;
+  background-color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 0.2px solid rgb(167, 167, 167);
+}
+
+.grey {
+  color: rgb(158, 158, 158);
+}
+
+.lastcolumn {
+  text-align: right;
+}
+
+.firstcolumn {
+  padding-left: 18px;
+}
+
+#table2 {
+  margin: 0;
+  border-collapse: collapse;
+  margin-left: 62px;
+  width: 1100px;
+  font-size: 18px;
+  background-color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.extras,
+.total {
+  padding-left: 580px;
+}
+
+.nobat {
+  padding-left: 164px;
+}
+
+.images{
+  display: none;
+}
