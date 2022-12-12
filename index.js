@@ -5,3 +5,6 @@
 // };
 
 // document.getElementById('msd').style.display = 'block';
+
+const vish = document.getElementById('VS')
+
