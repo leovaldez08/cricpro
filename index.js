@@ -8,7 +8,7 @@ var batsman7 = document.getElementById('SR');
 var batsman8 = document.getElementById('HS');
 var batsman9 = document.getElementById('ZK');
 var batsman10 = document.getElementById('MP');
-var batsman11 = document.getElementById('SS');
+var batsman101 = document.getElementById('SNS');
 
 var batsman11 = document.getElementById('vs');
 var batsman22 = document.getElementById('st');
@@ -162,7 +162,7 @@ batsman10.onclick = () => {
   batsman111.style.display = 'none';
 };
 
-batsman11.onclick = () => {
+batsman101.onclick = () => {
   batsman11.style.display = 'none';
   batsman22.style.display = 'none';
   batsman33.style.display = 'none';
