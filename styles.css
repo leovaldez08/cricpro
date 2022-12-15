@@ -80,8 +80,14 @@ td {
   text-align: right;
 }
 
+#bm {
+  padding-left: 18px;
+}
+
 .firstcolumn {
   padding-left: 18px;
+  color: rgb(18, 112, 219);
+  cursor: pointer;
 }
 
 #table2 {
@@ -101,6 +107,8 @@ td {
 
 .nobat {
   padding-left: 164px;
+  color: rgb(18, 112, 219);
+  cursor: pointer;
 }
 
 .lastele {
