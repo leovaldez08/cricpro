@@ -1,3 +1,3 @@
 # cricpro
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-be2w9z)
+This is a small cricket game made using Javascript.
